@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[American Outlaws Las Vegas]]></title>
         <description><![CDATA[American Outlaws Las Vegas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/american-outlaws-las-vegas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 18:54:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 18:54:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/american-outlaws-las-vegas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[USMNT vs Iceland at the StubHub Center]]></title>
+            <description><![CDATA[<article><h1>USMNT vs Iceland at the StubHub Center</h1><p>It has been announced that the USMNT will be playing Iceland as a warm up for the World Cup Qualifying matches starting next year.  The best part about this is that its only 4.5 hours away from Las Vegas so if you want to car pool its definitely possible.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cf757d73a1cc471f9cf0d59c0d78c78cd7e2080.jpg"></article>]]></description>
+            <link>https://thegrid.ai/american-outlaws-las-vegas/usmnt-vs-iceland-at-the-stubhub-center/index.html</link>
+            <guid isPermaLink="false">f3cd537b-597a-4d5a-b24c-0198c5a21abb</guid>
+            <pubDate>Wed, 23 Dec 2015 18:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[USMNT & USWNT Watch Parties]]></title>
             <description><![CDATA[<article><h1>USMNT & USWNT Watch Parties</h1><p>Your home for all AO Vegas watch parties is McMullan's Irish Pub.  We recommend getting there at least 15 minutes before the match starts, unless its a World Cup related match and then you'll likely need to be there a few hours early.  Beer specials are typically on Dale's Pale Ale, but can vary from match to match.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8d3ec8a9c6808d89008d02532e67c015937c4f6.jpg"></article>]]></description>
-            <link>undefinedusmnt-and-uswnt-watch-parties/index.html</link>
+            <link>https://thegrid.ai/american-outlaws-las-vegas/usmnt-and-uswnt-watch-parties/index.html</link>
             <guid isPermaLink="false">70e99d17-0d5d-4ddf-8fa5-21c9f3a96d12</guid>
             <pubDate>Wed, 23 Dec 2015 18:53:54 GMT</pubDate>
         </item>
