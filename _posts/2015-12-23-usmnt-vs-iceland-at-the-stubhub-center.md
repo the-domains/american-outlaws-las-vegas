@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "The US Men's National Team will be playing Iceland in Cason, CA at the StubHub Center on 1/31/16."
-datePublished: '2015-12-23T18:54:38.062Z'
-dateModified: '2015-12-23T18:52:55.791Z'
+datePublished: '2015-12-23T18:57:12.561Z'
+dateModified: '2015-12-23T18:57:08.207Z'
 title: USMNT vs Iceland at the StubHub Center
 author: []
 authors: []
